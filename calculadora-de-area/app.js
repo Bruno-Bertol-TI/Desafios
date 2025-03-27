@@ -1,10 +1,3 @@
-// Crie uma função que mostre na tela a área
-//  e o perímetro de uma sala retangular, utilizando 
-// altura e largura que serão dadas como parâmetro.
-
-// Crie uma função que mostre na tela a área e o perímetro de uma sala circular, 
-// utilizando seu raio que será fornecido como parâmetro. Considere Pi = 3,14.
-
 while (loop == true) {
     formas = prompt('Escolha a forma do local ou objeto que deseja calcular (circulo, triangulo, quadrado ou retangulo): ').toLowerCase();
 
