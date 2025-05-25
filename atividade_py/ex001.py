@@ -8,6 +8,8 @@ dictionary = {
         'postal code': '85867-618',      
     }
 }
+profession_field = input('Digite sua profissão: ')
+dictionary['profession'] = profession_field
 
 atualizar_dados_idade = int(input('Digite sua idade: '))
 dictionary['age']  = atualizar_dados_idade
