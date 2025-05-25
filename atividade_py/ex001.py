@@ -13,3 +13,7 @@ dictionary['profession'] = profession_field
 
 atualizar_dados_idade = int(input('Digite sua idade: '))
 dictionary['age']  = atualizar_dados_idade
+
+del dictionary['lastname']
+
+print(dictionary)
