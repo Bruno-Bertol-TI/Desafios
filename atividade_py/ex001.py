@@ -8,3 +8,6 @@ dictionary = {
         'postal code': '85867-618',      
     }
 }
+
+atualizar_dados_idade = int(input('Digite sua idade: '))
+dictionary['age']  = atualizar_dados_idade
